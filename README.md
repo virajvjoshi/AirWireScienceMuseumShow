@@ -3,6 +3,8 @@ Arduino to Processing Serial Connection, Drawing Commands, To be used with leap 
 
 **Gesture Driven Electronics Prototyping**
 AirWire by Viraj Joshi brings coding capabilities to finger swishes! This new smart system reads finger gestures and turns them to code to help to make programming electronics as easy as swishing your fingers.
+
+AirWire was exhibited at Science Museum's "We are Engineers" Show on 20th and 22nd of October 2018.
 Patent Pending: GB1819918.2
 http://bit.ly/AirWire
 http://virajvjoshi.com
